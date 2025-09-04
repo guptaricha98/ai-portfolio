@@ -1,0 +1,14 @@
+artifact_uri: file:///home/auraria/ai-portfolio/mlflow/mlruns/953579373612440625/c14de31897cf45c48fa687ad6ce62c3f/artifacts
+end_time: 1756952838491
+entry_point_name: ''
+experiment_id: '953579373612440625'
+lifecycle_stage: active
+run_id: c14de31897cf45c48fa687ad6ce62c3f
+run_name: bold-smelt-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756952838271
+status: 3
+tags: []
+user_id: auraria
